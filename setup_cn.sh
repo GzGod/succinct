@@ -71,7 +71,7 @@ fi
 export PROVE_PER_BPGU=1.01
 export PGUS_PER_SECOND=10485606
 
-print_message "欢迎使用 Succinct Prover 部署脚本"
+print_message "欢迎使用 Succinct Prover 部署脚本 By 推特雪糕战神@Xuegaogx"
 echo
 print_message "请先前往 https://staking.sepolia.succinct.xyz/prover 创建 prover 地址"
 read -p "输入 Prover Address (0x...) ：" PROVER_ADDRESS
